@@ -23,6 +23,7 @@ function App() {
     } 
     getApi();
   }, []);
+// console.log(data,'data')
 
   // useEffect(()=>{
   //   const getApi = async () => {
