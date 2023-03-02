@@ -26,7 +26,7 @@ const Details = () => {
       <h1>หน้ารายละเอียดสินค้า</h1>
       <div className="space-y-1">
         <h1>ชื่อสินค้า : {product.title}</h1>
-        <h1>ราคาสินค้า : {product.price}</h1>
+        <h1>ราคาสินค้า : {product.price} บาท</h1>
         <h1>รายละเอียด : {product.description}</h1>
       </div>
     </div>

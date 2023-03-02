@@ -21,7 +21,7 @@ function App() {
         console.log(error)
       }
     } 
-    getApi()
+    getApi();
   }, []);
 
   // useEffect(()=>{

@@ -1,6 +1,6 @@
 const Author = () => {
   return(
-    <div>
+    <div className="text-center">
       <h1>ผู้จัดทํา</h1>
       <p>ชาลี</p>
     </div>
